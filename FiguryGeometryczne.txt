@@ -1,0 +1,10 @@
+id Inne_czwor
+nazwa INC1
+kolor ZIELONY
+dlugosc 4
+szerokosc 3
+bok_3 5
+bok_4 6
+x 3
+y 2
+z 3
